@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-palette-generator/static/css/main.06941cd2.css",
+    "main.js": "/color-palette-generator/static/js/main.7c3ccb1d.js",
+    "index.html": "/color-palette-generator/index.html",
+    "main.06941cd2.css.map": "/color-palette-generator/static/css/main.06941cd2.css.map",
+    "main.7c3ccb1d.js.map": "/color-palette-generator/static/js/main.7c3ccb1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06941cd2.css",
+    "static/js/main.7c3ccb1d.js"
+  ]
+}
